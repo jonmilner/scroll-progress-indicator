@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+*:focus {
+  outline: none !important;
+}
+
+body {
+  position: relative;
+}
+
+.container {
+  padding-top: 40px;
+  padding-bottom: 80px;
+}

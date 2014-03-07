@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20120731 at Fri Mar  7 17:48:56 2014
+ By Jon Milner
+Created by Jon Milner with FontForge 2.0 (http://fontforge.sf.net)
+</metadata>
+<defs>
+<font id="icon-font" horiz-adv-x="465" >
+  <font-face 
+    font-family="icon-font"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 6 9 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 0 465 341"
+    underline-thickness="25"
+    underline-position="-52"
+    unicode-range="U+E001-E001"
+  />
+<missing-glyph 
+d="M17 0v341h136v-341h-136zM34 17h102v307h-102v-307z" />
+    <glyph glyph-name=".notdef" 
+d="M17 0v341h136v-341h-136zM34 17h102v307h-102v-307z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" 
+ />
+    <glyph glyph-name="uniE001" unicode="&#xe001;" 
+d="M233 248l-193 -192l-40 40l233 232l232 -232l-40 -40z" />
+  </font>
+</defs></svg>
